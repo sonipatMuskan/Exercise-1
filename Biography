@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    string name = "Muskan";
+    string hometown = "Sonepat";
+    int age = 20;
+
+    cout << "Name: " << name << "\nHometown: " << hometown << "\nAge: " << age << endl;
+
+    return 0;
+}
